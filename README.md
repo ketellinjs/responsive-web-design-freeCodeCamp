@@ -1,4 +1,5 @@
-🖥️ Responsive Web Design Certification
+🖥️ Responsive Web Design Certification 
+
 📚 Estrutura do repositório
 Este repositório contém os projetos desenvolvidos durante o curso Responsive Web Design Certification do FreeCodeCamp.
 Os projetos estão organizados em duas partes:
